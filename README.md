@@ -1,2 +1,1 @@
-# snake_and_ladder
-#sampe commit
+# snake_and_ladder_game
